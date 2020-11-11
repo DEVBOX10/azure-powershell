@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 2.2.0
 * Added new cmdlet `Get-AzAccessToken`
 * Fixed an issue that error happens if user profile path is inaccessible
 * Fixed an issue causing Write-Object error during Connect-AzAccount [#13419]
